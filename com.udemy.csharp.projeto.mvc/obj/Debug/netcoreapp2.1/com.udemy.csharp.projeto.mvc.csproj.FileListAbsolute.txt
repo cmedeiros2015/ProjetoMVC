@@ -36,3 +36,4 @@ C:\Users\carlo\source\repos\com.udemy.csharp.projeto.mvc\com.udemy.csharp.projet
 C:\Users\carlo\source\repos\com.udemy.csharp.projeto.mvc\com.udemy.csharp.projeto.mvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Users\carlo\source\repos\com.udemy.csharp.projeto.mvc\com.udemy.csharp.projeto.mvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
 C:\Users\carlo\source\repos\com.udemy.csharp.projeto.mvc\com.udemy.csharp.projeto.mvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
+C:\Users\carlo\source\repos\com.udemy.csharp.projeto.mvc\com.udemy.csharp.projeto.mvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
